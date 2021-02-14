@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+R2kkdHRorDIjRJ9YJ07hKEvfJkZYzSDHQHU4uz4lnw9O/QeEtRXG/qLknsuQS6UiRNpDPN06R83vYIiRMpPw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\ProjetoPratico\\ProjetoPratico\\ProjetoPratico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\awssdk.core\\3.5.2.10\\awssdk.core.3.5.2.10.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\awssdk.sqs\\3.5.1.19\\awssdk.sqs.3.5.1.19.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
